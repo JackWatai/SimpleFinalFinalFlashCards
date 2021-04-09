@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SimpleFinalFinalFlashcard</string>
+    <string name="correct"><b>SCORE</b> \n
+                           <b>%1$d</b> OUT OF 4</string>
+    <string name="true_text">true</string>
+    <string name="false_text">false</string>
+    <string name="correct_answer">That\'s correct</string>
+    <string name="wrong_answer">That\'s incorrect</string>
+
+
+
+
+    <string name="next_text">next</string>
+    <string name="prev_text">previous</string>
+</resources>
