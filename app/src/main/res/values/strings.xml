@@ -12,6 +12,11 @@
     <string name="d"> 4/4=2</string>
     <string name="e"> 4-4=0 </string>
 
+    <string name="f"> A preposition is always followed by a "noun".</string>
+    <string name="g"> Phrasal verbs always consist of two words.</string>
+    <string name="h"> The past tense of "must" is "musted"</string>
+    <string name="i"> The verb "to think" is never used in continuous tenses.</string>
+
     <string name="next_text">next</string>
     <string name="prev_text">previous</string>
 </resources>
