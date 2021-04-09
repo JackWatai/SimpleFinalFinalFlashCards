@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">SimpleFinalFinalFlashcard</string>
+    <string name="app_name">SimpleFinalFlashcard</string>
     <string name="correct"><b>SCORE</b> \n
                            <b>%1$d</b> OUT OF 4</string>
     <string name="true_text">true</string>
@@ -12,15 +12,21 @@
     <string name="d"> 4/4=2</string>
     <string name="e"> 4-4=0 </string>
 
+    <string name="j"> Jose is handsome.</string>
+    <string name="k"> Jack is strong.</string>
+    <string name="l"> Joshua is noisy.</string>
+    <string name="m"> Am I lying?</string>
+
     <string name="f"> A preposition is always followed by a "noun".</string>
     <string name="g"> Phrasal verbs always consist of two words.</string>
     <string name="h"> The past tense of "must" is "musted"</string>
     <string name="i"> The verb "to think" is never used in continuous tenses.</string>
 
-    <string name="j"> Jose is handsome.</string>
-    <string name="k"> Jack is strong.</string>
-    <string name="l"> Joshua is noisy.</string>
-    <string name="m"> Am I lying?</string>
+    <string name="n"> Water is a liquid.</string>
+    <string name="o"> Rock is a gas.</string>
+    <string name="p"> Earth is flat.</string>
+    <string name="q"> Our galaxy is called "dairy milk"</string>
+
 
     <string name="next_text">next</string>
     <string name="prev_text">previous</string>
