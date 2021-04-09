@@ -17,6 +17,11 @@
     <string name="h"> The past tense of "must" is "musted"</string>
     <string name="i"> The verb "to think" is never used in continuous tenses.</string>
 
+    <string name="j"> Jose is handsome.</string>
+    <string name="k"> Jack is strong.</string>
+    <string name="l"> Joshua is noisy.</string>
+    <string name="m"> Am I lying?</string>
+
     <string name="next_text">next</string>
     <string name="prev_text">previous</string>
 </resources>
