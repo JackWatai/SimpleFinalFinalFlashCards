@@ -22,10 +22,10 @@
     <string name="h"> The past tense of "must" is "musted"</string>
     <string name="i"> The verb "to think" is never used in continuous tenses.</string>
 
-    <string name="n"> Water is a liquid.</string>
-    <string name="o"> Rock is a gas.</string>
-    <string name="p"> Earth is flat.</string>
-    <string name="q"> Our galaxy is called "dairy milk"</string>
+    <string name="n"> Rock is a solid.</string>
+    <string name="o"> Water is a gas.</string>
+    <string name="p"> Earth is square.</string>
+    <string name="q"> Carbon dioxide is liquid.</string>
 
 
     <string name="next_text">next</string>
